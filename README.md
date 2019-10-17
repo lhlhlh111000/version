@@ -22,6 +22,8 @@ node 9.x 及以上
 
 react 
 
+typescript
+
 umi
 
 [管理平台前端项目](https://github.com/lhlhlh111000/app-manager)
