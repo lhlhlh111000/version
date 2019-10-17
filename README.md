@@ -31,7 +31,7 @@ umi
 * clone当前项目
 * 在mysql中新建tq_update数据库
 * 配置application.properties文件中数据库链接配置
-
+* 启动VersionApplication
 
 ***管理平台启动***
 
