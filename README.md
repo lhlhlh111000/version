@@ -26,7 +26,11 @@ typescript
 
 umi
 
+***相关***
+
 [管理平台前端项目](https://github.com/lhlhlh111000/app-manager)
+
+[PRD](./prd/start.html)
 
 ***后端服务启动***
 
